@@ -1,10 +1,10 @@
 ---
-title: Sideloading the JW Library® app
+title: Sideloading the JW Library® apps
 feed: show
 date: 03-11-24
 ---
  
-The JW Library® app officially supports sideloading on both Android and Windows platforms.
+The JW Library® apps officially supports sideloading on both Android and Windows platforms.
 
 |         | JW Library®                                           | JW Library Sign Language®                                 |
 | ------- | ---------------------------------------------------- | -------------------------------------------------------- |
