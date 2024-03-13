@@ -29,10 +29,10 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
-gem 'jekyll-sitemap'
-gem 'kramdown-math-katex'
+gem "jekyll-sitemap"
+gem "kramdown-math-katex"
 
 gem "webrick", "~> 1.7"
 
 # Deploy to Cloudflare
-gem 'public_suffix', '4.0.6'
+gem "public_suffix", ">= 4.0.6", "< 6.0"
