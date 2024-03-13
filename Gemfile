@@ -33,3 +33,6 @@ gem "jekyll-sitemap"
 gem "kramdown-math-katex"
 
 gem "webrick", "~> 1.7"
+
+# To use Jekyll 4.3.3 works with Github Pages
+gem "rake", ">= 0.a"
