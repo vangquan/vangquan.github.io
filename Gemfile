@@ -36,3 +36,8 @@ gem "webrick", "~> 1.7"
 
 # To use Jekyll 4.3.3 works with Github Pages
 gem "rake", ">= 0.a"
+
+gem 'csv'
+gem 'logger'
+gem 'base64'
+gem 'bigdecimal'
