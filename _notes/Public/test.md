@@ -1,7 +1,7 @@
 ---
 title: Contact | Liên hệ
 feed: hide
-permalink: /test
+permalink: /zalo
 date: 2025-08-19
 format: list
 ---
