@@ -1,12 +1,4 @@
 /*! Quan touch */
-/* Base logo style */
-.logo {
-  width: 1.5rem;
-  height: 1.5rem;
-  fill: currentColor;       /* SVG paths inherit currentColor */
-  vertical-align: middle;   /* Align nicely with text */
-}
-
 /* Theme toggle support */
 [data-theme="light"] .logo { color: black; }
 [data-theme="dark"]  .logo { color: white; }
