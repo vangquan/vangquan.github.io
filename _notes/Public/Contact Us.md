@@ -16,7 +16,7 @@ format: list
 
 ## Quân
 
-<!-- - {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="Zalo"><use xlink:href="#zalo"></use></svg>{:/} [Zalo](http://go.vangquan.com/quan-zalo) -->
+- {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="Zalo"><use xlink:href="#zalo"></use></svg>{:/} [Zalo](http://go.vangquan.com/quan-zalo)
 - {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="WhatsApp"><use xlink:href="#whatsapp"></use></svg>{:/} [WhatsApp](http://go.vangquan.com/quan-whatsapp)
 - {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="Telegram"><use xlink:href="#telegram"></use></svg>{:/} [Telegram](http://go.vangquan.com/quan-telegram)
 - {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="Messenger"><use xlink:href="#messenger"></use></svg>{:/} [Messenger](http://go.vangquan.com/quan-messenger)
@@ -26,7 +26,7 @@ format: list
 
 ## Vang
 
-<!-- - {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="Zalo"><use xlink:href="#zalo"></use></svg>{:/} [Zalo](http://go.vangquan.com/vang-zalo) -->
+- {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="Zalo"><use xlink:href="#zalo"></use></svg>{:/} [Zalo](http://go.vangquan.com/vang-zalo)
 - {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="WhatsApp"><use xlink:href="#whatsapp"></use></svg>{:/} [WhatsApp](http://go.vangquan.com/vang-whatsapp)
 - {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="Telegram"><use xlink:href="#telegram"></use></svg>{:/} [Telegram](http://go.vangquan.com/vang-telegram)
 - {::nomarkdown}<svg width="1.5rem" height="1.5rem" style="vertical-align: middle; fill: currentColor;" aria-label="Messenger"><use xlink:href="#messenger"></use></svg>{:/} [Messenger](http://go.vangquan.com/vang-messenger)
