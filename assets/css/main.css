@@ -1,3 +1,22 @@
+/*! Quan touch */
+/* Base logo style */
+.logo {
+  width: 1.5rem;
+  height: 1.5rem;
+  fill: currentColor;          /* SVG paths inherit currentColor */
+  vertical-align: middle;      /* Align with text */
+  color: black;                /* Default for light mode */
+}
+/* OS dark mode fallback */
+@media (prefers-color-scheme: dark) {
+  .logo {
+    color: white;
+  }
+}
+/* Theme toggle support */
+[data-theme="light"] .logo { color: black; }
+[data-theme="dark"]  .logo { color: white; }
+
 /*! bulma.io v0.8.2 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
