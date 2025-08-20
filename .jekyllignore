@@ -1,0 +1,67 @@
+# Ignore sensitive and unnecessary files for Jekyll publishing
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Jekyll and build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Node and package files
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+docker-compose.yml
+README.md
+README
+readme.md
+readme
+
+# Ruby and bundler files
+Gemfile
+Gemfile.lock
+vendor/
+
+# Environment and config files
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.crt
+*.csr
+*.p12
+*.pfx
+
+# Credentials and secrets
+*.sqlite3
+*.db
+*.db3
+*.log
+*.pid
+secrets.yml
+credentials.yml.enc
+
+# Misc
+*.iml
+.idea/
+.vscode/
+*.code-workspace
+*.log
+*.orig
+*.rej
+*.gz
+*.zip
+*.tar
+*.tgz
+*.7z
+*.rar
