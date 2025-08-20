@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 layout: Post
-permalink: /blog
+permalink: 
 content-type: "static"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Credits"
 layout: Post
-permalink: /credits
+permalink:
 content-type: "static"
 ---
 
