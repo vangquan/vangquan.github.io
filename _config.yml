@@ -112,3 +112,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - docker-compose.yml
+  - README.md
