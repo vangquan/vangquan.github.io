@@ -1,8 +1,9 @@
 ---
 title: "Credits"
 layout: Post
-permalink:
+permalink: /credits
 content-type: "static"
+published: false
 ---
 
 # Credits and Acknowledgments
