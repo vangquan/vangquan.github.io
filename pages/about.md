@@ -9,6 +9,7 @@ redirect_from:
   - /thongtin
   - /chungtoi
   - /contact
+  - /about
 ---
 
 {% include sprite.svg %}
