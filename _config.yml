@@ -48,16 +48,18 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
+  - title: "JW.ORG"
+    url: "https://www.jw.org/"
+  - title: "WOL"
+    url: "https://wol.jw.org/"
   - title: "Notes"
     url: "/notes"
-  - title: "Blog"
-    url: "/blog"
   - title: "About"
-    url: "/about"
+    url: "/us"
 
 # Footer
 footer:
-  copyright: "© 2025 Vang Quân. Contents under CC-BY-NC"
+  copyright: "© 2025. Contents under CC-BY-NC"
   credits:
     enabled: false
     url: "/credits"

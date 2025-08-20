@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 4.3.2"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -17,19 +17,29 @@ gem "jekyll", "~> 4.0.0"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-tidy"
+  gem "jekyll-sitemap"
+  gem "jekyll-redirect-from"
+  gem "kramdown-math-katex"
 end
 
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
-install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
+# Required for running Jekyll on Ruby 3.x
+gem "webrick", "~> 1.7"
+
+# Windows and JRuby support
+install_if -> { RUBY_PLATFORM =~ /mingw|mswin|java/ } do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
+  gem "wdm", "~> 0.1.1"
 end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
-gem 'jekyll-sitemap'
-gem 'kramdown-math-katex'
-
-gem "webrick", "~> 1.7"
+# Standard library gems (for Ruby 3.0+ compatibility)
+gem "base64"
+gem "bigdecimal"
+gem "csv"
+gem "drb"
+gem "net-http"
+gem "matrix"
+gem "mutex_m"
+gem "prime"
+gem "securerandom"
+gem "strscan"

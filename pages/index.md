@@ -4,9 +4,7 @@
 
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: Our Yeartext for 2025
 ---
 
-Jekyll Garden is a simple theme that turns your Obsidian notes into a beautiful website. If you use Obsidian for note-taking, this theme makes it easy to publish your markdown files as a connected website with wiki-style links and full-text search.
-
-Start by reading [[Getting Started]] to set up your own Jekyll Garden. Learn how to use [[Wiki Links]] to connect your notes, explore the [[Markdown Guide]] for formatting, and customize your site with the [[Customization]] guide. When you're ready to share your notes online, follow the [[Deployment]] instructions.
+“Give Jehovah the glory due his name.”—[Psalm 96:8](https://www.jw.org/finder?wtlocale=E&pub=nwtsty&srctype=wol&bible=19096008&srcid=share).
