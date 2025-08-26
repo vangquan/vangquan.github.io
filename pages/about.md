@@ -2,14 +2,26 @@
 title: "Contact | Liên hệ"
 layout: Post
 content-type: "static"
-permalink: /us
+permalink: /contact
 redirect_from:
-  - /lienhe
-  - /lienlac
-  - /thongtin
-  - /chungtoi
-  - /contact
+  - /contact-us
   - /about
+  - /about-us
+  - /support
+  - /lienhe
+  - /lien-he
+  - /lienlac
+  - /lien-lac
+  - /gioithieu
+  - /gioi-thieu
+  - /thongtin
+  - /thong-tin
+  - /chungtoi
+  - /chung-toi
+  - /otoiawase
+  - /toiawase
+  - /문의
+  - /ℹ️
 ---
 
 {% include sprite.svg %}
