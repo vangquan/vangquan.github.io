@@ -9,6 +9,7 @@ redirect_from:
   - /about-us
   - /support
   - /info
+  - /us
   - /lienhe
   - /lien-he
   - /lienlac
