@@ -52,8 +52,8 @@ menu:
     url: "https://www.jw.org/"
   - title: "WOL"
     url: "https://wol.jw.org/"
-  - title: "Notes"
-    url: "/notes"
+#  - title: "Notes"
+#    url: "/notes"
   - title: "About"
     url: "/us"
 
