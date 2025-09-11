@@ -54,8 +54,8 @@ menu:
     url: "https://wol.jw.org/"
 #  - title: "Notes"
 #    url: "/notes"
-  - title: "About"
-    url: "/contact"
+#  - title: "About"
+#    url: "/contact"
 
 # Footer
 footer:
